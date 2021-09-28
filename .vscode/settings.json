@@ -1,0 +1,33 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx.swing.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx.web.jar",
+        "c:\\Users\\User-12\\Downloads\\openjfx-11.0.2_windows-x64_bin-sdk\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar",
+        "c:\\Users\\User-12\\Downloads\\mysql-connector-java-8.0.25\\mysql-connector-java-8.0.25\\mysql-connector-java-8.0.25.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "connection",
+            "username": "root",
+            "name": "connection",
+            "password": ""
+        }
+    ]
+}

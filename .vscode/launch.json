@@ -1,0 +1,22 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path /Users/User-12/Downloads/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "bdd_2c6d9712"
+        }
+    ]
+}
